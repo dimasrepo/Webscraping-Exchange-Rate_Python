@@ -1,4 +1,4 @@
-# Data Exchange Rate Analysis
+# Data Exchange Rate Analysis USD to IDR
 
 ## Average Exchange Rate: 15,959.59
 
