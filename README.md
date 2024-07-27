@@ -1,4 +1,4 @@
-# Data Exchange Rate Analysis USD to IDR
+# Exchange Rate Analysis USD to IDR
 
 ## Average Exchange Rate
 
