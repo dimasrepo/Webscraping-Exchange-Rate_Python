@@ -53,4 +53,4 @@ This project aims to analyze currency exchange rate data and display the results
  ```
 3. Open your browser and access `http://127.0.0.1:5000` to view the application.
 
-## Project Structure
+
