@@ -1,6 +1,6 @@
 # Data Exchange Rate Analysis USD to IDR
 
-## Average Exchange Rate: 15,959.59
+## Average Exchange Rate
 
 This project analyzes currency exchange rates in a certain period using collected data. Following are the details and steps to run this application.
 
